@@ -1,0 +1,29 @@
+name: animation_controller
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  # ENHANCEMENT 8: Sound Effects - Adding audioplayers package
+  audioplayers: ^5.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/sounds/pop.mp3
+
+    # ENHANCEMENT 8: Sound Effects - Assets for sounds
+    # - assets/sounds/pop.mp3
