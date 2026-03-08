@@ -1,16 +1,10 @@
 # animation_controller
 
-A new Flutter project.
+This project is an Interactive Flutter Animation application that simulates a dynamic sky filled with multiple balloons. It showcases advanced animation techniques, including easing curves, individual instance control, and complex sequential transitions (floating up then drifting away).
+Key Features:
+•	Dynamic Visuals: Realistic shadows, 3D-like radial gradients, pulse effects, and swaying rotation.
+•	Rich Interactions: Smooth drag-to-move, pinch-to-resize, and tap-to-burst functionality.
+•	Immersive Environment: Integrated sound effects (audioplayers) and a randomized background cloud system.
+•	Complex Logic: Manages multiple balloons simultaneously using independent AnimationControllers and automatic respawning.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
